@@ -1,0 +1,10 @@
+/node_modules
+/storage/*.key
+/vendor
+/.idea
+/.phpintel
+dps.sublime-project
+dps.sublime-workspace
+Homestead.json
+Homestead.yaml
+.env
